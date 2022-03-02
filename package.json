@@ -1,0 +1,39 @@
+{
+  "name": "mui-color-picker",
+  "version": "0.1.0",
+  "private": true,
+  "installConfig": {
+    "pnp": true
+  },
+  "dependencies": {
+    "@babel/core": "7.17.5",
+    "@emotion/react": "11.8.1",
+    "@emotion/styled": "11.8.1",
+    "@mui/icons-material": "5.4.4",
+    "@mui/material": "5.4.4",
+    "@types/react": "17.0.39",
+    "@types/react-dom": "17.0.12",
+    "date-fns": "2.28.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "5.0.0",
+    "typescript": "4.6.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": "Bootstrap files you get with `npx create-react-app new my-awesome-app`"
+}
