@@ -1,5 +1,6 @@
-# Create React App
+# Material UI Color Picker
 
-This is the files you get with the `npx create-react-app new my-awesome-app` bootstrap.
+This is the source code for the demo of a Color Picker using Material UI.
+It is a react app with Components for the `ColorPicker` written in `typescript`.
 
-A base to start projects from.
+Codesandbox Link: https://codesandbox.io/s/mui-color-picker-7ovsly
